@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 BadBank is a mock front end banking app that was created as a project in MIT xPro's Full Stack Developer Course.
 
+[See it live here](http://leah-seligbankingapplication.s3-website-us-west-1.amazonaws.com)
+
 ## Installation
 
 Download or clone repository.
